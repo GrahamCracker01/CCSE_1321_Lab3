@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3873ed78-3f42-4bf5-b7b8-7072ef511985" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3C.java" afterDir="false" />
+    <list default="true" id="3873ed78-3f42-4bf5-b7b8-7072ef511985" name="Changes" comment="Assignment for Java Lab. Lab3A calculates the user's monthly percentage rate and minimum payment for their credit card. Lab3B is a GPA calculator. Lab3C takes how many coins a person has and determines how much money they have.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab3B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3B.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +29,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662250105839</updated>
     </task>
+    <task id="LOCAL-00001" summary="Assignment for Java Lab. Lab3A calculates the user's monthly percentage rate and minimum payment for their credit card. Lab3B is a GPA calculator. Lab3C takes how many coins a person has and determines how much money they have.">
+      <created>1662250579071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662250579071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment for Java Lab. Lab3A calculates the user's monthly percentage rate and minimum payment for their credit card. Lab3B is a GPA calculator. Lab3C takes how many coins a person has and determines how much money they have." />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment for Java Lab. Lab3A calculates the user's monthly percentage rate and minimum payment for their credit card. Lab3B is a GPA calculator. Lab3C takes how many coins a person has and determines how much money they have." />
   </component>
 </project>

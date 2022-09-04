@@ -49,8 +49,9 @@ class Lab3B {
         fltGPA = fltTotalQP / fltTotalHours;
 
         //output
-        System.out.println("Total hours is: " + fltTotalHours);
-        System.out.println("Total quality points is: " + fltTotalQP);
+        System.out.println("");
+        System.out.println("Total hours is: " + String.format("%.0f", fltTotalHours));
+        System.out.println("Total quality points is: " + String.format("%.0f", fltTotalQP));
         System.out.println("Your GPA for this semester is " + fltGPA);
 
     }
